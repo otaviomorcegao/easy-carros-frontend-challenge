@@ -4,12 +4,11 @@ Projeto desenvolvido como parte do processo seletivo da Easy Carros para fronten
 
 ## Dependencias
 
-- node - v10+
-- yarn - v1.22+
+- yarn
 
 ## Executando o Projeto
 
-Para executar este projeto, deve-se utilizar a API fornecida pela equipe da Easy Carros e disponível [`neste endereço`](http://bitbucket.org/easycarros/frontend-challenge) e executá-la no endereço padrão d projeto: http://localhost:8181
+Para executar este projeto, deve-se utilizar a API fornecida pela equipe da Easy Carros e disponível [`neste endereço`](http://bitbucket.org/easycarros/frontend-challenge) e executá-la no endereço padrão do projeto: http://localhost:8181
 
 ### O Projeto front-end
 
