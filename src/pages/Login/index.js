@@ -7,6 +7,8 @@ import SubmitButton from '../../components/auth/SubmitButton';
 
 import { setToken, getToken, isAuthenticated } from '../../auth';
 
+import logo from '../../assets/logo.png';
+
 import {
   Container,
   LoginContainer,
@@ -46,7 +48,9 @@ const Login = (props) => {
   return (
     <Container>
       <LoginContainer>
-        <LogoContainer></LogoContainer>
+        <LogoContainer>
+          <img src={logo} />
+        </LogoContainer>
         <FormContainer onSubmit={handleSubmit}>
           <Input
             name="email"

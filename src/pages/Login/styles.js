@@ -19,8 +19,8 @@ export const LoginContainer = styled.div`
 export const LogoContainer = styled.div`
   width: 150px;
   height: 150px;
-  background-color: #eee;
-  border-radius: 5px;
+  background-color: #fff;
+  border-radius: 10px;
   margin-bottom: 60px;
 `;
 
